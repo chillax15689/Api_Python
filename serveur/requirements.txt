@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+sqlalchemy
+pydantic
+requests
+scapy
+python-dotenv
+python-multipart
